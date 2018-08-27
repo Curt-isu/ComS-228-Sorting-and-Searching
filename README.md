@@ -1,2 +1,2 @@
 # ComS-228-Sorting-and-Searching
-ComS 228 Assignment 2
+ComS 228 Assignment 2 at Iowa State University
