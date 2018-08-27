@@ -1,0 +1,25 @@
+Sorter: InsertionSorter
+Length of Listed Sorted: 1000
+Total Sorted Words: 1000000
+Total Time: 12386ms
+AVG Time Sort: 12.386
+Comparisons Performed: 257979000
+Elements(p/s): 80.0
+
+Sorter: MergeSorter
+Length of Listed Sorted: 1000
+Total Sorted Words: 1000000
+Total Time: 1241ms
+AVG Time Sort: 1.241
+Comparisons Performed: 8721000
+Elements(p/s): 805.0
+
+Sorter: QuickSorter
+Length of Listed Sorted: 1000
+Total Sorted Words: 1000000
+Total Time: 1031ms
+AVG Time Sort: 1.031
+Comparisons Performed: 11072000
+Elements(p/s): 969.0
+
+Seeing these Times and overall perfomance details I think the best sorter will be QuickSort. The avg time is the lowest and overall I can see. I think is because of the rec and the single loop in the swapper or partition. 
